@@ -19,7 +19,7 @@ const Player = () => {
     headers: {
       accept: "application/json",
       Authorization:
-        "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3M2ZiOGVlYjRlMzUwMzlkZDEzZjhmMzVmNjM0ZTMwMiIsIm5iZiI6MTc0MzAxMDg2NS44MDksInN1YiI6IjY3ZTQzYzMxN2RiOWU3MGM0N2RjYjYyMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.uE7ECpHDcyMh-Z9g0CiGpgEseujmlVpxvUtCTD-GlNI",
+        "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmYTIzYTgwNTg1ZTg5MzA5Nzk5MTU4NjE4ZTRkMzYyNSIsIm5iZiI6MTc0MzAxMDg2NS44MDksInN1YiI6IjY3ZTQzYzMxN2RiOWU3MGM0N2RjYjYyMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.NgJOwk09L5oy64_acp3um5wgORqRl-_59sKjy4QMrhc",
     },
   };
 

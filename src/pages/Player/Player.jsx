@@ -38,7 +38,7 @@ const Player = () => {
       <i
         className="fa-solid fa-circle-arrow-left"
         onClick={() => {
-          navigate(-2);
+          navigate(-1);
         }}
       ></i>
       {/* <img src={back_arrow_icon} alt="" /> */}
